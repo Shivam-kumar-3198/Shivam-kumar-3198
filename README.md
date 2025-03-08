@@ -1,51 +1,42 @@
-# Shivam Kumar’s Cosmic Code Universe 🚀
+<!-- Dynamic Typing SVG -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Cosmic+Code+Universe!;I+am+Shivam+Kumar;Coding+is+my+Superpower;Let%27s+Build+Something+Amazing!&center=true&width=600&height=100)
+
+# Hi, I'm Shivam Kumar 🚀
 
 ![Cosmic Animation](https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif)
 
-Welcome to my interstellar repository of innovation and creativity! I’m **Shivam Kumar**, a code explorer charting unknown digital galaxies. My projects are dynamic constellations of passion, creativity, and cutting-edge technology.
+## About Me
+I'm a passionate coder navigating the digital cosmos. My journey spans full-stack development, cloud computing, AI/ML, and much more. I love turning complex problems into elegant, innovative solutions while exploring the frontiers of technology.
 
-## My Star Repositories
+## My Skill Set
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, MongoDB
+- **Programming:** C++, Java, Python
+- **Cloud & DevOps:** AWS, Docker
+- **AI & Machine Learning:** TensorFlow, scikit-learn
 
-### 🌟 Html_CSS_Javascript
-Navigate the web galaxy with projects that blend classic HTML, CSS, and JavaScript magic into engaging, beginner-friendly experiences.
+## My Repositories
+- **🌟 Html_CSS_Javascript:** Beginner-friendly web projects that introduce the magic of HTML, CSS, and JavaScript.
+- **🚀 React:** Modern web apps built with dynamic React components and interstellar API integrations.
+- **📸 Photo_Editor_Project:** A creative playground for photo editing with essential JavaScript features.
+- **🌐 Webdev_for_Gdsc:** An odyssey of web development projects from landing pages to interactive portals.
+- **🎩 OH.STUDIO_webpage:** Where creative design meets web development wizardry.
+- **🤖 workingWithC++:** C++ projects that tackle real-world challenges with efficient algorithms.
+- **📚 JavaProgram:** A constellation of beginner Java programs lighting the path to mastery.
+- **🌌 legal_matrix_by_Shivam:** A reimagined legal framework with innovative tweaks.
+- **🎮 Calculator_Project_Js:** A JavaScript-powered calculator blending logic and creativity.
 
-### 🚀 React
-Dive into modern web development with dynamic React projects that harness powerful components, intuitive state management, and interstellar API integrations.
+## Achievements & New Horizons
+- **Full-Stack Mastery:** Building robust applications with Node.js, Express, and MongoDB.
+- **Cloud Navigator:** Deploying secure, scalable solutions using AWS and Docker.
+- **AI & Machine Learning Explorer:** Harnessing the power of TensorFlow and scikit-learn to unlock data insights.
+- **Hackathon Hero:** Recognized for innovative problem-solving and dynamic teamwork in competitive hackathons.
 
-### 📸 Photo_Editor_Project
-Unleash your creativity! Experiment with essential photo editing features—crop, filter, and sprinkle a little stardust on your images.
+## GitHub Stats
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivam-kumar-3198&show_icons=true&theme=radical)
 
-### 🌐 Webdev_for_Gdsc
-Embark on a web development odyssey, where sleek landing pages and interactive portals bring your digital visions to life.
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Shivam-kumar-3198)
 
-### 🎩 OH.STUDIO_webpage
-Enter a realm where creativity meets pixels. Here, HTML spells, CSS enchantments, and JavaScript wizardry converge in an enigmatic display.
-
-### 🤖 workingWithC++
-Venture into the C++ cosmos—where algorithms solve real-world puzzles and code transcends boundaries.
-
-### 📚 JavaProgram
-Explore beginner-level Java projects that shine like shooting stars, illuminating the path to deeper learning.
-
-### 🌌 legal_matrix_by_Shivam
-Reimagine the legal framework with innovative tweaks. Legal wizards, assemble!
-
-### 🎮 Calculator_Project_Js
-Crunch numbers with a JavaScript-powered calculator—an alchemical blend of logic and creativity that makes math fun.
-
-## New Horizons & Achievements
-
-- **Full-Stack Mastery:** Expanded my toolkit with Node.js, Express, and MongoDB to build robust, scalable back-end architectures.
-- **Cloud Navigator:** Leveraged AWS and Docker to deploy secure, scalable cloud solutions powering modern applications.
-- **AI & Machine Learning Explorer:** Explored Python’s AI ecosystem with TensorFlow and scikit-learn, unlocking new dimensions of data-driven insights.
-- **Hackathon Hero:** Proud recipient of top honors at XYZ Hackathon, recognized for innovative problem-solving and dynamic teamwork.
-
-## Unique Functions & Innovations
-
-Beyond conventional coding, I experiment with unique functions like `quantumLeap()` and `cosmicSync()`. These tailor-made routines integrate complex operations with intuitive simplicity, opening new frontiers in code.
-
-## Let’s Connect!
-
-Whether you’re ready to embark on a collaborative project or simply chat about the digital cosmos, I’m always up for a code conversation. **Connect with me** and let’s build something extraordinary!
-
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Shivam-kumar-3198)](https://github.com/Shivam-kumar-3198)
+## Let's Connect!
+I'm always open to a code chat or collaborative project. Feel free to reach out:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivam-blue)](https://www.linkedin.com/in/shivam) [![Mail](https://img.shields.io/badge/Email-hello@shivam.com-red)](mailto:hello@shivam.com)
