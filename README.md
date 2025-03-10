@@ -1,7 +1,7 @@
 <!-- Dynamic Typing Effect -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+Digital+Universe!;I'm+Shivam+Kumar;Transforming+ideas+into+code;Let's+Build+the+Future!&center=true&width=800&height=100)
 
-# Hi, I'm Shivam Kumar 👋
+# Hi, I'm Shivam Kumar let's start 👋
 
 <!-- Animated SVG Banner -->
 <div align="center">
