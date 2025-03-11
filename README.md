@@ -70,5 +70,5 @@ I'm a passionate Full Stack Developer with a flair for transforming ideas into e
 
 ## Let's Connect!
 I'm always excited to collaborate or chat about tech. Feel free to reach out:
-- [LinkedIn]([https://www.linkedin.com/in/shivam](https://www.linkedin.com/in/shivam-kumar-49b414279))
+- [LinkedIn]([https://www.linkedin.com/in/shivam-kumar-49b414279])
 - [Email](mailto:thisisshivamkumar8840@gmail.com)
